@@ -7,6 +7,8 @@ This tool coded by Ismael Al-safadi
 using >>>
 first of all , this tool take a photo from webcam and save it at the ame file when any usb drive connact with your computer 
 <br>
+  to download exe file >> https://drive.google.com/open?id=1_BfeHdK9rC7nWSshPQxPAkoHr8PzGbOW
+<br>  
 then make Beep sound for 40 secounds 
 <br>
 to contact with me on facebook >> https://www.facebook.com/profile.php?id=100019740513920 
@@ -14,3 +16,4 @@ to contact with me on facebook >> https://www.facebook.com/profile.php?id=100019
 My email:ismaelalsafadi@protonmail.com 
 <br>
 thank you for using my tool ^__^
+  
